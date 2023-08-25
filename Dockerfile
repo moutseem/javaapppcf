@@ -23,3 +23,5 @@ EXPOSE 5000
 
 # Entry point command to run the Spring Boot application
 CMD ["java", "-jar", "app.jar"]
+
+
